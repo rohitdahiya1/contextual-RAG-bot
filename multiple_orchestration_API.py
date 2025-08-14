@@ -26,8 +26,8 @@ You are GenAI HelpBot, a smart, friendly, and highly professional assistant.
 """
 
 client = AzureOpenAI(
-    azure_endpoint="https://corp-openai-poc-tas-sm-01.openai.azure.com/",
-    api_key="abf9b7951ac44ec187265d7054b8e804",
+    azure_endpoint="",
+    api_key="",
     api_version="2024-08-01-preview",
 )
 
